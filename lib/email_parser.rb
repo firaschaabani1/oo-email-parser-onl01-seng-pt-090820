@@ -1,7 +1,7 @@
 class EmailAddressParser
   attr_reader :email, :Parser
   
-def intialize (EmailParser
+def intialize (Email, Parser)
   @email = email
   @Parser = Parser
   
